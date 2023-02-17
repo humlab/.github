@@ -12,3 +12,5 @@ Our mission is to initiate, inspire and develop the interaction between traditio
  - [welfare-state-analytics](http://github.com/welfare-state-analytics)
  - [inidun](http://github.com/inidun)
  - [humlab-swedeb](http://github.com/humlab-swedeb)
+ - [humlab-speech](https://github.com/humlab-speech)
+ 
