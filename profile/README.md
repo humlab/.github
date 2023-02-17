@@ -8,7 +8,7 @@ Our mission is to initiate, inspire and develop the interaction between traditio
 
 ## Associated Organizations
 
- - github.com/humlab-sead
- - github.com/welfare-state-analytics
- - github.com/inidun
- - 
+ - [humlab-sead](github.com/humlab-sead)
+ - [welfare-state-analytics](github.com/welfare-state-analytics)
+ - [inidun](github.com/inidun)
+ - [humlab-swedeb](github.com/humlab-swedeb)
