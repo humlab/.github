@@ -6,3 +6,9 @@ Humlab is a unit and a research infrastructure at the Faculty of Arts, Umeå Uni
 
 Our mission is to initiate, inspire and develop the interaction between traditional humanities, culture and information technology in research, postgraduate education and teaching.
 
+## Associated Organizations
+
+ - github.com/humlab-sead
+ - github.com/welfare-state-analytics
+ - github.com/inidun
+ - 
